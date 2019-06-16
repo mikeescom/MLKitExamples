@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5731834623",
+    "firebase_url": "https://mlkitexamples-a519f.firebaseio.com",
+    "project_id": "mlkitexamples-a519f",
+    "storage_bucket": "mlkitexamples-a519f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5731834623:android:0eb4293dabc76655",
+        "android_client_info": {
+          "package_name": "com.mikeescom.mlkitexamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5731834623-p6eprsjt0o155ai0hjknc5e45v0nsq8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRURsEPf72CVSAn4bLqBbX62Jl--g3KhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5731834623-p6eprsjt0o155ai0hjknc5e45v0nsq8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
