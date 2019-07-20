@@ -1,4 +1,4 @@
-package com.mikeescom.mlkitexamples.ui;
+package com.mikeescom.mlkitexamples;
 
 import android.app.Application;
 
